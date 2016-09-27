@@ -1,6 +1,6 @@
 # hello-world
 GitHub tutorial
 
-I forgot to have lunch today.
+This being human is a guest house. Every morning a new arrival.
 
 
